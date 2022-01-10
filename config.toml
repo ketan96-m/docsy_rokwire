@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://epic-rosalind-ec8ecd.netlify.app/"
 title = "Goldydocs"
 
 enableRobotsTXT = true
