@@ -179,7 +179,7 @@ Who are you?
 **Example: Quick Polls Screen**
 
 <!-- ![Alt text](qpoll.png?raw=true "Quick Polls") -->
-<img src='qpoll.png'>
+<img src='qpoll.png' class='center'>
 
 >In the Quick Polls screen from the Illinois app, above, some of the text is consistent with our style rules, and some text is inconsistent.
 >
@@ -196,7 +196,7 @@ Who are you?
 **Example: Wallet Screen**
 
 <!-- ![Alt text](wallet.png?raw=true "Wallet") -->
-<img src="wallet.png">
+<img src="wallet.png" class = 'center'>
 
 >>In the Wallet screen from the Illinois app, above, some of the text is consistent with our style rules, and some text is inconsistent.
 >
