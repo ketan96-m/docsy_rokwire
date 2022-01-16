@@ -7,7 +7,7 @@ description: >
 ---
 
 <!-- ![](images/SaferIllinoisUserGuide0.jpg) -->
-<img src="images/SaferIllinoisUserGuide0.jpg" />
+<img src="/images/SaferIllinoisUserGuide0.jpg" />
 
 __SAFER ILLINOIS__
 
