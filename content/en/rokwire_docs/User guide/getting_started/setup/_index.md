@@ -43,11 +43,11 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__  __>__  __[
 
 __Enabling Notifications__
 
-<img src="images/SaferIllinoisUserGuide2.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide2.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide3.png" width=449px />
+<img src="/image/SaferIllinoisUserGuide3.png" width=449px />
 
-<img src="images/SaferIllinoisUserGuide4.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide4.png" width=500px />
 
 Tap __Enable Notification__ to enable notifications\.
 
@@ -63,9 +63,9 @@ __Enabling Location Services__
 
 \(On Android systems\)
 
-<img src="images/SaferIllinoisUserGuide5.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide5.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide6.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide6.png" width=500px />
 
 Location services must be turned on to activate the Exposure Notificationsystem\.Even if you turn on location services\, the app does not access your location\, or collect or store any location data\.
 
@@ -75,7 +75,7 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__  __>__  __[
 
 __Enabling Bluetooth__
 
-<img src="images/SaferIllinoisUserGuide7.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide7.png" width=500px />
 
 Bluetooth must be turned on to activate the Exposure Notification system\. This setting allows the app to track possible COVID\-19 exposures\.
 
@@ -94,7 +94,7 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__  __>__  __[
 
 __Selecting Your Affiliation__
 
-<img src="images/SaferIllinoisUserGuide8.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide8.png" width=500px />
 
 __University Student__ – Undergraduate or graduate student\. Sign in withNetID\.
 
@@ -110,7 +110,7 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__  __>__  __[
 
 __University Affiliate__
 
-<img src="images/SaferIllinoisUserGuide9.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide9.png" width=500px />
 
 Tap __Log in with NetID__  __to__ proceed to the University of Illinois single sign\-on page\.
 
@@ -120,9 +120,9 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__  __>__  __[
 
 __Non\-University Member__
 
-<img src="images/SaferIllinoisUserGuide10.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide10.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide11.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide11.png" width=500px />
 
 Your phone number will serve as your sign\-in credentials\.
 
@@ -142,7 +142,7 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__
 
 __CONSENTING TO PARTICIPATE__
 
-<img src="images/SaferIllinoisUserGuide12.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide12.png" width=500px />
 
 Tap the switches to consent to:
 
@@ -158,7 +158,7 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__
 
 __SAVING YOUR ENCRYPTION KEY__
 
-<img src="images/SaferIllinoisUserGuide13.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide13.png" width=500px />
 
 Save your encryption key so that you can retrieve your health history information later\.
 
@@ -170,7 +170,7 @@ __[Contents](slide5.xml)__  __>__  __[Getting Started](slide7.xml)__
 
 __YOU CAN NOW USE THE APP__
 
-<img src="images/SaferIllinoisUserGuide14.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide14.png" width=500px />
 
 Tap __Get Started__ to go to the Safer Illinois Home Screen\.
 
@@ -198,7 +198,7 @@ __[Contents](slide5.xml)__  __>__  __[Home Screen](slide23.xml)__
 
 __HOME SCREEN OVERVIEW__
 
-<img src="images/SaferIllinoisUserGuide15.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide15.png" width=500px />
 
 Accumulated test results\, exposure history\, and symptom reports\.
 
@@ -218,7 +218,7 @@ __HOME SCREEN OVERVIEW__
 
 __Continued__
 
-<img src="images/SaferIllinoisUserGuide16.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide16.png" width=500px />
 
 Building Access Pass and ID Code to scan at test sites\.
 
@@ -226,7 +226,7 @@ Get help with your COVID\-19 questions and technical support\.
 
 Safer Illinois User Guide
 
-<img src="images/SaferIllinoisUserGuide17.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide17.png" width=500px />
 
 Tap __Settings__ \(⚙\) in the upper right\-hand corner of the home screen to open the __Settings screen__ \.
 
@@ -236,7 +236,7 @@ __[Contents](slide5.xml)__  __>__  __[Settings Screen](slide26.xml)__
 
 __SETTINGS SCREEN OVERVIEW__
 
-<img src="images/SaferIllinoisUserGuide18.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide18.png" width=500px />
 
 Set user affiliation\.
 
@@ -252,7 +252,7 @@ __SETTINGS SCREEN OVERVIEW__
 
 __Continued__
 
-<img src="images/SaferIllinoisUserGuide19.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide19.png" width=500px />
 
 Enable Exposure Notificationsystem\.
 
@@ -288,9 +288,9 @@ __[Contents](slide5.xml)__  __>__  __[Signing In and Signing Out](slide29.xml)__
 
 __SIGNING IN TO THE APP__  __Continued__
 
-<img src="images/SaferIllinoisUserGuide20.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide20.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide21.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide21.png" width=500px />
 
 Tap Settings \(⚙\) in the upper right\-hand corner of the home screen\.
 
@@ -304,9 +304,9 @@ __[Contents](slide5.xml)__  __>__  __[Signing In and Signing Out](slide29.xml)__
 
 __SIGNING IN TO THE APP__  __Continued__
 
-<img src="images/SaferIllinoisUserGuide22.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide22.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide23.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide23.png" width=500px />
 
 __University Members__
 
@@ -332,11 +332,11 @@ Safer Illinois User Guide
 
 __[Contents](slide5.xml)__  __>__  __[Signing In and Signing Out](slide29.xml)__
 
-<img src="images/SaferIllinoisUserGuide24.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide24.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide25.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide25.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide26.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide26.png" width=500px />
 
 Tap Settings \(⚙\) in the upper right\-hand corner of the home screen\.
 

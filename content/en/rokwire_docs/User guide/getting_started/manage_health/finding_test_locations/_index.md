@@ -14,9 +14,9 @@ __[Contents](slide5.xml)__  __>__  __[Managing Your Health](slide35.xml)__  __>_
 
 __VIEWING AVAILABLE TEST CENTERS__
 
-<img src="images/SaferIllinoisUserGuide33.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide33.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide34.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide34.png" width=500px />
 
 <span style="color:#FFFFFF">Tap the test center address to view its location on a map\.</span>
 

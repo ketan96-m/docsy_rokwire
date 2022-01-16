@@ -179,6 +179,23 @@ Who are you?
 **Example: Quick Polls Screen**
 
 <!-- ![Alt text](qpoll.png?raw=true "Quick Polls") -->
+<style>
+img {
+  border: 1px solid #555;
+  border-radius: 4px;
+  padding: 1px;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+</style>
+
 <img src='qpoll.png' class='center'>
 
 >In the Quick Polls screen from the Illinois app, above, some of the text is consistent with our style rules, and some text is inconsistent.

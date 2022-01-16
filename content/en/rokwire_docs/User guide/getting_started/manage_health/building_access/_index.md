@@ -19,7 +19,7 @@ __[Contents](slide5.xml)__  __>__  __[Managing Your Health](slide35.xml)__  __>_
 
 __ACCESSING CAMPUS__  __BUILDINGS__
 
-<img src="images/SaferIllinoisUserGuide27.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide27.png" width=500px />
 
 * Tap __Show Status Card__ on the Safer Illinois home screen\. Your building access status depends on your recent test results\.
   * __GRANTED__ – You have access to campus buildings\.
@@ -33,7 +33,7 @@ __ACCESSING CAMPUS__  __BUILDINGS__
 
 __Continued__
 
-<img src="images/SaferIllinoisUserGuide28.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide28.png" width=500px />
 
 Swipe left to reveal your __COVID\-19 test results__ and __ID QR Code__ \.
 
@@ -45,9 +45,9 @@ __[Contents](slide5.xml)__  __>__  __[Managing Your Health](slide35.xml)__  __>_
 
 __DECODING STATUS__  __COLORS__
 
-<img src="images/SaferIllinoisUserGuide29.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide29.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide30.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide30.png" width=500px />
 
 * Tap ⓘ to view the COVID\-19 status color codes\.
   * Yellow: Negative COVID\-19 test
@@ -70,9 +70,9 @@ __[Contents](slide5.xml)__  __>__  __[Managing Your Health](slide35.xml)__
 
 __CONTACTING YOUR HEALTHCARE TEAM__
 
-<img src="images/SaferIllinoisUserGuide31.png" width=500px />
+<img src="/image/SaferIllinoisUserGuide31.png" width=500px />
 
-<img src="images/SaferIllinoisUserGuide32.jpg" width=500px />
+<img src="/image/SaferIllinoisUserGuide32.jpg" width=500px />
 
 Scroll down to __Your Health__ on the Safer Illinois home screen\.
 
