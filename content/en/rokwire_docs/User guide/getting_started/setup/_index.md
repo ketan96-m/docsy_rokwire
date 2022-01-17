@@ -5,6 +5,7 @@ weight: 1
 description: >
   
 ---
+<link rel = 'stylesheet' href = '/css/image_style.css'></link>
 <span style="color:#25366B"> __GETTING THE APP__ </span>
 
 Safer Illinois is compatible with mobile devices running Android and iOS\. Find it in the Apple App Store or Google Play Store\.

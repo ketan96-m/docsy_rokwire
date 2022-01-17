@@ -3,7 +3,7 @@ title: 'Finding Test Locations'
 linkTitle: 'Finding Test Locations'
 weight: 2
 ---
-
+<link rel = 'stylesheet' href = '/css/image_style.css'></link>
 <span style="color:#25366B"> __FINDING TEST LOCATIONS__ </span>
 
 Test centers at many convenient locations across campus are open at most normal business hours\. You can find a nearby test center\, view its projected wait time\, and confirm hours of availability before you even leave your home\.

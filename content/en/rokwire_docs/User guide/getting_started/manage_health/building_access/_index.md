@@ -3,7 +3,7 @@ title: 'Accessing Campus Buildings'
 linkTitle: 'Accessing Campus Buildings'
 weight: 1
 ---
-
+<link rel = 'stylesheet' href = '/css/image_style.css'></link>
 
 <span style="color:#25366B"> __ACCESSING__ </span>
 

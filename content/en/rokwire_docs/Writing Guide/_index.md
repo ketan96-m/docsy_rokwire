@@ -1,3 +1,4 @@
+
 ---
 title: "Writing Styling Guide"
 linkTitle: "Writing Styling Guide"
@@ -5,6 +6,7 @@ weight: 11
 description: >
   Styling guide for the documentation
 ---
+<link rel = 'stylesheet' href = '/css/image_style.css'></link>
 
 # Writing Style Guide
 
@@ -184,10 +186,10 @@ img {
   border: 1px solid #555;
   border-radius: 4px;
   padding: 1px;
-  width: 200px;
+  /*width: 250px;*/
   /*margin-left: auto;*/
   /*margin-right: auto;*/*/
-  /*width: 10%;*/
+  /*width: 90%;*/
 }
 
 img:hover {
@@ -195,7 +197,6 @@ img:hover {
 }
 
 </style> -->
-<link rel = 'stylesheet' href = '/css/image_style.css'></link>
 
 <img src='/image/qpoll.png' class='center'>
 

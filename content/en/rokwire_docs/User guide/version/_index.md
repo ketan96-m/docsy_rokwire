@@ -6,6 +6,8 @@ weight: 1
 description: >
  
 ---
+<link rel = 'stylesheet' href = '/css/image_style.css'></link>
+
 <!-- ![](images/SaferIllinoisUserGuide0.jpg) -->
 <img src="/image/SaferIllinoisUserGuide0.jpg" />
 
