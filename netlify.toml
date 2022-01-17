@@ -31,5 +31,5 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
 from = "/npmjs/*"
-to = "https://epic-rosalind-ec8ecd.netlify.app/"
+to = "/npmjs/*"
 status = 200
