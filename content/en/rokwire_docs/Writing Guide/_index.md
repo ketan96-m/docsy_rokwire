@@ -179,24 +179,25 @@ Who are you?
 **Example: Quick Polls Screen**
 
 <!-- ![Alt text](qpoll.png?raw=true "Quick Polls") -->
-<style>
+<!-- <style>
 img {
   border: 1px solid #555;
   border-radius: 4px;
   padding: 1px;
-  width: 150px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
+  width: 200px;
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/*/
+  /*width: 10%;*/
 }
 
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
-</style>
+</style> -->
+<link rel = 'stylesheet' href = '/css/image_style.css'></link>
 
-<img src='qpoll.png' class='center'>
+<img src='/image/qpoll.png' class='center'>
 
 >In the Quick Polls screen from the Illinois app, above, some of the text is consistent with our style rules, and some text is inconsistent.
 >
@@ -213,7 +214,7 @@ img:hover {
 **Example: Wallet Screen**
 
 <!-- ![Alt text](wallet.png?raw=true "Wallet") -->
-<img src="wallet.png" class = 'center'>
+<img src="/image/wallet.png" class = 'center'>
 
 >>In the Wallet screen from the Illinois app, above, some of the text is consistent with our style rules, and some text is inconsistent.
 >
